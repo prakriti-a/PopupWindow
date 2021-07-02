@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Popup Window</string>
+    <string name="open_popup">OPEN POPUP WINDOW</string>
+    <string name="popup_title">THIS IS THE POPUP WINDOW</string>
+    <string name="img">Cat Image</string>
+    <string name="close">CLOSE WINDOW</string>
+</resources>
